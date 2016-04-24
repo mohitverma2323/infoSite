@@ -18,7 +18,7 @@ body {
 }
 
 .item:nth-child(1) {
-    background-image: url(../img/businessdevelopment.jpg);
+    background-image: url(../img/slide3.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -30,7 +30,7 @@ body {
 }
 
 .item:nth-child(3) {
-    background-image: url(../img/background3.jpg);
+    background-image: url(../img/slide4.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
